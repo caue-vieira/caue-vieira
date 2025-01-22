@@ -10,7 +10,7 @@
 - **Tools:** Visual Studio, VS Code, Intellij, MySQL Workbench, PgAdmin, Git and GitHub
 
 # 💼 Featured Projects
-- **Coming soon...**
+- [Finance Tracker API](https://github.com/caue-vieira/finance-tracker)
 
 # 👤 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)

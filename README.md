@@ -1,7 +1,7 @@
 # Hi there, I'm Cauê 👋
 
 ## I am a young mid-level programmer from Brazil, passionate in building scalable web and mobile applications.
-## I enjoy and am always up to learn new technologies, programming languages and techniques.
+## I enjoy learning and am always eager to explore new technologies, programming languages, and techniques.
 
 # 🛠 Technologies and Tools
 - **Frontend:** React, React Native, Vue

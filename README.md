@@ -13,8 +13,8 @@
 - **Coming soon...**
 
 # 👤 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
-[Email Me](cauevcaetano@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
+- [Email Me](cauevcaetano@gmail.com)
 
 <!--
 **caue-vieira/caue-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

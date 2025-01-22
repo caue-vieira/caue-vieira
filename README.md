@@ -12,6 +12,11 @@
 # 💼 Featured Projects
 - [Finance Tracker API](https://github.com/caue-vieira/finance-tracker)
 
+# 📚 Academic Projects
+- [Golang - Udemy](https://github.com/caue-vieira/Golang-Udemy)
+- [Golang - Rocketseat](https://github.com/caue-vieira/Go-React)
+- [JavaScript/TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)
+
 # 👤 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
 - [Email Me](cauevcaetano@gmail.com)

@@ -17,6 +17,7 @@
 - [Golang - Rocketseat](https://github.com/caue-vieira/Go-React)
 - [JavaScript/TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)
 - [Java - Rocketseat](https://github.com/caue-vieira/ToDoList)
+- [A.I - Rocketseat](https://github.com/caue-vieira/nlwia-modified)
 
 # 👤 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)

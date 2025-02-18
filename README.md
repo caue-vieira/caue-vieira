@@ -11,7 +11,7 @@
 
 # 💼 Featured Projects
 - [Finance Tracker API](https://github.com/caue-vieira/finance-tracker)
-- [PHP API with components](https://github.com/caue-vieira/API-PHP)
+- [PHP API with components and MVC Service + Repository pattern](https://github.com/caue-vieira/API-PHP)
 
 # 📚 Academic Projects
 - [Golang - Udemy](https://github.com/caue-vieira/Golang-Udemy)

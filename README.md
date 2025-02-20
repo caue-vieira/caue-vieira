@@ -14,6 +14,7 @@
 - [PHP API with components and MVC Service + Repository pattern](https://github.com/caue-vieira/API-PHP)
 
 # 📚 Academic Projects
+- [Next.js - Rocketseat](https://github.com/caue-vieira/NLW-Connect-React)
 - [Golang - Udemy](https://github.com/caue-vieira/Golang-Udemy)
 - [Golang - Rocketseat](https://github.com/caue-vieira/Go-React)
 - [JavaScript/TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)

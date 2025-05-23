@@ -4,8 +4,8 @@
 ## I enjoy learning and am always eager to explore new technologies, programming languages, and techniques.
 
 # 🛠 Technologies and Tools
-- **Frontend:** React, React Native, Vue
-- **Backend:** Java, Golang, C#
+- **Technologies:** React, React Native, Next.js, Spring Boot, ASP.NET, Laravel
+- **Languages:** Java, C#, JavaScript and TypeScript, Golang, PHP
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Visual Studio, VS Code, Intellij, MySQL Workbench, PgAdmin, Git and GitHub
 
@@ -17,11 +17,11 @@
 - [Next.js - Rocketseat](https://github.com/caue-vieira/NLW-Connect-React)
 - [Golang - Udemy](https://github.com/caue-vieira/Golang-Udemy)
 - [Golang - Rocketseat](https://github.com/caue-vieira/Go-React)
-- [JavaScript/TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)
+- [TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)
 - [Java - Rocketseat](https://github.com/caue-vieira/ToDoList)
 - [A.I - Rocketseat](https://github.com/caue-vieira/nlwia-modified)
 
-# 👤 Let's Connect
+# 👥 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
 - [Email Me](cauevcaetano@gmail.com)
 

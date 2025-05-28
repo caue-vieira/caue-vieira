@@ -19,7 +19,7 @@ Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and Gi
 ## 💼 Featured Projects
 | Project | Description |
 |--------|-------------|
-| [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for educational purposes |
+| [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for accessibility app |
 | [To Do List (Flutter)](https://github.com/caue-vieira/Flutter-ToDoList) | Task management app built with Flutter and Dart |
 | [Finance Tracker API](https://github.com/caue-vieira/finance-tracker) | A personal finance API with robust expense tracking |
 | [PHP MVC API](https://github.com/caue-vieira/API-PHP) | Clean architecture using services, repository pattern, and components |

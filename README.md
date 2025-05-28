@@ -27,11 +27,11 @@ Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and Gi
 ## 🎓 Academic & Learning Projects
 | Project | Tech / Course |
 |---------|---------------|
-| [Rocketseat Connect](https://github.com/caue-vieira/NLW-Connect-React) | Next.js |
-| [Go API - Udemy](https://github.com/caue-vieira/Golang-Udemy) | Go |
-| [Go & React](https://github.com/caue-vieira/Go-React) | Rocketseat |
-| [Unite](https://github.com/caue-vieira/NLW-Unite) | TypeScript |
-| [ToDo List](https://github.com/caue-vieira/ToDoList) | Java |
+| [Rocketseat Connect](https://github.com/caue-vieira/NLW-Connect-React) | Next.js - Rocketseat |
+| [Go API - Udemy](https://github.com/caue-vieira/Golang-Udemy) | Go - Udemy |
+| [Go & React](https://github.com/caue-vieira/Go-React) | Go - Rocketseat |
+| [NLW Unite](https://github.com/caue-vieira/NLW-Unite) | TypeScript - Rocketseat |
+| [ToDo List](https://github.com/caue-vieira/ToDoList) | Java - Rocketseat |
 | [AI App](https://github.com/caue-vieira/nlwia-modified) | Rocketseat, AI-focused |
 
 ## 👥 Let's Connect

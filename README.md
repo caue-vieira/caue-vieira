@@ -34,6 +34,17 @@ Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and Gi
 | [ToDo List](https://github.com/caue-vieira/ToDoList) | Java - Rocketseat |
 | [NLW IA](https://github.com/caue-vieira/nlwia-modified) | JavaScript, AI-focused - Rocketseat |
 
+## 📚 Education
+
+- 🔭 **B.Sc. in Physics**  
+  _Uninter · 2024 – Present_
+
+- 💻 **Technologist in Systems Analysis and Development**  
+  _Univinte · 2024 – Present_
+
+- 💻 **Technician in Systems Analysis and Development**  
+  _SENAI · 2022 – 2023_
+
 ## 👥 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
 - 📧 [Email Me](cauevcaetano@gmail.com)

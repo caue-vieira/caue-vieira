@@ -8,6 +8,7 @@ I'm always eager to **learn**, explore **new technologies**, and grow through **
 |--------|-------------|
 | [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for accessibility app |
 | [To Do List (Flutter)](https://github.com/caue-vieira/Flutter-ToDoList) | Task management app built with Flutter and Dart |
+| [Astronomic Simulations (Python)](https://github.com/caue-vieira/astronomic-simulations) | Simulation of different orbits in 2D and 3D |
 | [Finance Tracker API (C#)](https://github.com/caue-vieira/finance-tracker) | A personal finance API for expense tracking |
 | [MVC API (PHP)](https://github.com/caue-vieira/API-PHP) | Clean architecture using services, repository pattern, and components |
 
@@ -30,6 +31,7 @@ Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and Gi
 | [NLW Connect](https://github.com/caue-vieira/NLW-Connect-React) | Next.js - Rocketseat |
 | [Go API](https://github.com/caue-vieira/Golang-Udemy) | Go - Udemy |
 | [Go & React](https://github.com/caue-vieira/Go-React) | Go - Rocketseat |
+| [Lightcurve Analysis](https://github.com/caue-vieira/Lightcurve-analysis) | Python - Uninter (SIP) |
 | [NLW Unite](https://github.com/caue-vieira/NLW-Unite) | TypeScript - Rocketseat |
 | [ToDo List](https://github.com/caue-vieira/ToDoList) | Java - Rocketseat |
 | [NLW IA](https://github.com/caue-vieira/nlwia-modified) | JavaScript, AI-focused - Rocketseat |

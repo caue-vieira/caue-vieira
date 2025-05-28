@@ -3,6 +3,14 @@
 🎯 A mid-level programmer from **Brazil**, passionate about crafting scalable **web and mobile applications**.  
 I'm always eager to **learn**, explore **new technologies**, and grow through **real-world projects**.
 
+## 💼 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for accessibility app |
+| [To Do List (Flutter)](https://github.com/caue-vieira/Flutter-ToDoList) | Task management app built with Flutter and Dart |
+| [Finance Tracker API (C#)](https://github.com/caue-vieira/finance-tracker) | A personal finance API for expense tracking |
+| [MVC API (PHP)](https://github.com/caue-vieira/API-PHP) | Clean architecture using services, repository pattern, and components |
+
 ## 🛠 Tech Stack
 **Technologies:**
 React · React Native · Next.js · Spring Boot · ASP.NET · Laravel
@@ -15,14 +23,6 @@ MySQL · PostgreSQL
 
 **Tools:**
 Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and GitHub
-
-## 💼 Featured Projects
-| Project | Description |
-|--------|-------------|
-| [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for accessibility app |
-| [To Do List (Flutter)](https://github.com/caue-vieira/Flutter-ToDoList) | Task management app built with Flutter and Dart |
-| [Finance Tracker API (C#)](https://github.com/caue-vieira/finance-tracker) | A personal finance API for expense tracking |
-| [MVC API (PHP)](https://github.com/caue-vieira/API-PHP) | Clean architecture using services, repository pattern, and components |
 
 ## 🎓 Academic & Learning Projects
 | Project | Tech / Course |

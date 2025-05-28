@@ -10,6 +10,8 @@
 - **Tools:** Visual Studio, VS Code, Intellij, MySQL Workbench, PgAdmin, Git and GitHub
 
 # 💼 Featured Projects
+- [Ubli API - Java](https://github.com/caue-vieira/Ubli-backend)
+- [To Do List - Flutter](https://github.com/caue-vieira/Flutter-ToDoList)
 - [Finance Tracker API](https://github.com/caue-vieira/finance-tracker)
 - [PHP API with components and MVC Service + Repository pattern](https://github.com/caue-vieira/API-PHP)
 

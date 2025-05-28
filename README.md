@@ -1,31 +1,44 @@
 # Hi there, I'm Cauê 👋
 
-## I am a young mid-level programmer from Brazil, passionate in building scalable web and mobile applications.
-## I enjoy learning and am always eager to explore new technologies, programming languages, and techniques.
+🎯 A mid-level programmer from **Brazil**, passionate about crafting scalable **web and mobile applications**.  
+I'm always eager to **learn**, explore **new technologies**, and grow through **real-world projects**.
 
-# 🛠 Technologies and Tools
-- **Technologies:** React, React Native, Next.js, Spring Boot, ASP.NET, Laravel
-- **Languages:** Java, C#, JavaScript and TypeScript, Golang, PHP
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Visual Studio, VS Code, Intellij, MySQL Workbench, PgAdmin, Git and GitHub
+## 🛠 Tech Stack
+**Technologies:**
+React · React Native · Next.js · Spring Boot · ASP.NET · Laravel
 
-# 💼 Featured Projects
-- [Ubli API - Java](https://github.com/caue-vieira/Ubli-backend)
-- [To Do List - Flutter](https://github.com/caue-vieira/Flutter-ToDoList)
-- [Finance Tracker API](https://github.com/caue-vieira/finance-tracker)
-- [PHP API with components and MVC Service + Repository pattern](https://github.com/caue-vieira/API-PHP)
+**Languages:**
+Java · C# · JavaScript and TypeScript · Golang · PHP
 
-# 📚 Academic Projects
-- [Next.js - Rocketseat](https://github.com/caue-vieira/NLW-Connect-React)
-- [Golang - Udemy](https://github.com/caue-vieira/Golang-Udemy)
-- [Golang - Rocketseat](https://github.com/caue-vieira/Go-React)
-- [TypeScript - Rocketseat](https://github.com/caue-vieira/NLW-Unite)
-- [Java - Rocketseat](https://github.com/caue-vieira/ToDoList)
-- [A.I - Rocketseat](https://github.com/caue-vieira/nlwia-modified)
+**Databases:**
+MySQL · PostgreSQL
 
-# 👥 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
-- [Email Me](cauevcaetano@gmail.com)
+**Tools:**
+Visual Studio · VS Code · IntelliJ · MySQL Workbench · PgAdmin · Git and GitHub
+
+## 💼 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [Ubli API (Java)](https://github.com/caue-vieira/Ubli-backend) | REST API built with Spring Boot for educational purposes |
+| [To Do List (Flutter)](https://github.com/caue-vieira/Flutter-ToDoList) | Task management app built with Flutter and Dart |
+| [Finance Tracker API](https://github.com/caue-vieira/finance-tracker) | A personal finance API with robust expense tracking |
+| [PHP MVC API](https://github.com/caue-vieira/API-PHP) | Clean architecture using services, repository pattern, and components |
+
+## 🎓 Academic & Learning Projects
+| Project | Tech / Course |
+|---------|---------------|
+| [Rocketseat Connect](https://github.com/caue-vieira/NLW-Connect-React) | Next.js |
+| [Go API - Udemy](https://github.com/caue-vieira/Golang-Udemy) | Go |
+| [Go & React](https://github.com/caue-vieira/Go-React) | Rocketseat |
+| [Unite](https://github.com/caue-vieira/NLW-Unite) | TypeScript |
+| [ToDo List](https://github.com/caue-vieira/ToDoList) | Java |
+| [AI App](https://github.com/caue-vieira/nlwia-modified) | Rocketseat, AI-focused |
+
+## 👥 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-c-649741240/)
+- 📧 [Email Me](cauevcaetano@gmail.com)
+
+⭐️ *Thanks for visiting my profile! I'm always open to collaborations and feedback.*
 
 <!--
 **caue-vieira/caue-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
